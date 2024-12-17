@@ -1,0 +1,15 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+ }
+ :root{
+    --azul:#005EB8;
+    --verde:#28A745;
+    --laranja:#FF6F20; 
+    --cinza:#6C757D; 
+    --amarelo: #FFC107;
+    --fonte-size-rem: 62.2%
+}
