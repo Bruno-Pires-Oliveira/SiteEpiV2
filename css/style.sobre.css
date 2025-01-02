@@ -1,0 +1,52 @@
+body {  
+    font-family: Arial, sans-serif;  
+    line-height: 1.6;  
+    margin: 0;  
+    padding: 0;  
+}  
+
+.header {  
+    background-color: #005EB8;  
+    color: white;  
+    padding: 20px 0;  
+    text-align: center;
+    margin-bottom: 2px;
+}  
+
+header img {
+    display: flex;
+}
+
+section {  
+    padding: 20px;  
+    margin: 20px;  
+    border: 1px solid #ddd;  
+    border-radius: 5px;  
+}  
+
+h2 {  
+    color: #005EB8;  
+}  
+
+form {  
+    display: flex;  
+    flex-direction: column;  
+}  
+
+form label {  
+    margin: 10px 0 5px;  
+}  
+
+form input, form textarea {  
+    padding: 10px;  
+    margin-bottom: 20px;  
+    border: 1px solid #ccc;  
+    border-radius: 4px;  
+}  
+
+footer {  
+    text-align: center;  
+    padding: 10px 0;  
+    background-color: #005EB8;  
+    color: white;  
+}
